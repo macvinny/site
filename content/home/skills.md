@@ -1,6 +1,5 @@
 ---
 # An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
 # This file represents a page section.
@@ -9,25 +8,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: Sempre buscando aprender, praticar e evoluir no desenvolvimento de software. 
+  icon: dev
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Software Enginner
+- description: Desenvolvimento Web com Java.
+  icon: java
+  icon_pack: fab
+  name: Java
+- description: Desenvolvimento Mobile com Flutter.
+  icon: android
+  icon_pack: fab
+  name: Android
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -1,6 +1,6 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
+title: Palestras Recentes e Futuras
+cms_exclude: false
 
 # View.
 #   1 = List

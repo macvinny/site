@@ -1,11 +1,8 @@
 # Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MacVinny # Website name
+title: Marcos Vinicius # Website name
 baseurl: 'https://macvinny.com.br/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Marcos Vinicius de Paula Alves. Todos os direitos reservados.' # Footer text
 
 ############################
 ## LANGUAGE
@@ -22,7 +19,6 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
