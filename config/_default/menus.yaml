@@ -2,14 +2,14 @@
 
 main:
   - name: Sobre
-    url: '#about'
+    url: '#sobre'
     weight: 10
   - name: Blog
-    url: '#posts'
+    url: '#blog'
     weight: 20
   - name: Projetos
-    url: '#projects'
+    url: '#projetos'
     weight: 30
   - name: Contato
-    url: '#contact'
+    url: '#contato'
     weight: 40

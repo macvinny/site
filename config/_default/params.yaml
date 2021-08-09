@@ -43,7 +43,8 @@ address_format: pt-br
 
 highlight: true
 highlight_languages:
-  - r
+  - c
+  - java
 math: true
 diagram: true
 privacy_pack: false

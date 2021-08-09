@@ -14,21 +14,7 @@ organizations:
   url: https://www.pucgoias.edu.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Curioso e aficionado em aprender coisas novas em relação aos meus interesses.
-
-# Interests to show in About widget
-interests:
-- Arte da Programação de Computadores
-- Resolver Problemas com Programação
-- Desenvolvimento Web com Angular e Java
-- Desenvolvimento Mobile com Flutter
-
-# Education to show in About widget
-education:
-  courses:
-  - course: Ciência da Computação
-    institution: Pontifícia Universidade Católica de Goiás
-    year: Cursando
+bio: Interessado em computação, na arte da programação de computadores, resolver problemas reais e evoluir no desenvolvimento de software.
 
 # Social/Academic Networking
 social:
@@ -49,6 +35,7 @@ social:
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cursando Ciência da Computação na Pontifícia Universidade Católica de Goiás.  Sempre tentando equilibrar teoria e prática no mundo real. Adaptando-se bem às mudanças e não tendo medo de novos desafios. Buscando novas oportunidades de aprender diferentes tecnologias, adquirir conhecimento,  resolver problemas reais e evoluir no desenvolvimento de software. Buscando soluções criativas para problemas através de habilidades analíticas, facilidade e experiência no entendimento das necessidades dos usuários/clientes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Tem por motivação a paixão por computação, a arte da programação de computadores e a força por querer fazer da imaginação algo real. Sem medo em aprender e ensinar, acertar e errar, encarar coisas novas e desafiantes. Com ambição em desenvolver-se e focado no mercado internacional, em países da Europa, Estados Unidos da América e Canadá. 
