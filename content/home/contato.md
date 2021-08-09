@@ -6,11 +6,10 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contato
 subtitle:
-
 
 design:
   columns: '2'

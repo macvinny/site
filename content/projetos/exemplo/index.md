@@ -1,5 +1,5 @@
 ---
-title: GarCar
+title: Exemplo
 summary: Um aplicativo para gerenciamentos de veículos em concessionários.
 tags:
 - Veículos

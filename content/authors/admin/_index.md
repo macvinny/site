@@ -37,5 +37,4 @@ highlight_name: false
 
 Cursando Ciência da Computação na Pontifícia Universidade Católica de Goiás.  Sempre tentando equilibrar teoria e prática no mundo real. Adaptando-se bem às mudanças e não tendo medo de novos desafios. Buscando novas oportunidades de aprender diferentes tecnologias, adquirir conhecimento,  resolver problemas reais e evoluir no desenvolvimento de software. Buscando soluções criativas para problemas através de habilidades analíticas, facilidade e experiência no entendimento das necessidades dos usuários/clientes.
 
-
 Tem por motivação a paixão por computação, a arte da programação de computadores e a força por querer fazer da imaginação algo real. Sem medo em aprender e ensinar, acertar e errar, encarar coisas novas e desafiantes. Com ambição em desenvolver-se e focado no mercado internacional, em países da Europa, Estados Unidos da América e Canadá. 
