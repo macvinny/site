@@ -11,8 +11,8 @@ date: "2021-10-10"
 links:
 - icon: github
   icon_pack: fab
-  name: App
-  url: https://github.com/macvinny/goanddo-app
+  name: Web
+  url: https://github.com/macvinny/goanddo-web
 - icon: github
   icon_pack: fab
   name: API
