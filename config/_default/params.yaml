@@ -13,16 +13,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
     description: 'Site pessoal de Marcos Vinicius de Paula Alves'
-    twitter: 'macvinnyof'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
@@ -59,7 +50,7 @@ features:
     enable: true
     extra_languages:
       - c
-      - java
+      - java  
   math:
     enable: true
   diagram:
@@ -73,13 +64,6 @@ features:
   avatar:
     gravatar: false
     shape: square
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
   search:
     provider: wowchemy
     algolia:
@@ -87,7 +71,3 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15

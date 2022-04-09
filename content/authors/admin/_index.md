@@ -18,18 +18,12 @@ bio: Interessado em computação, na arte da programação de computadores, em r
 
 # Social/Academic Networking
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contato'
 - icon: github
   icon_pack: fab
   link: https://github.com/macvinny/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/macvinny/
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv-marcos-vinicius-de-paula-alves.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
