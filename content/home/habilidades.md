@@ -21,8 +21,8 @@ feature:
   icon: java
   icon_pack: fab
   name: Java
-- description: Desenvolvimento Mobile com Flutter.
-  icon: mobile
-  icon_pack: fa
-  name: Mobile
+- description: Desenvolvimento Web com Angular.
+  icon: angular
+  icon_pack: fab
+  name: Angular
 ---

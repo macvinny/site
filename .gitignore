@@ -2,8 +2,9 @@
 .idea/
 
 # Hugo
-/resources/
+resources/
 public/
 jsconfig.json
 node_modules/
-deploy
+go.sum
+.hugo_build.lock

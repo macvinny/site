@@ -3,19 +3,20 @@
 # Appearance
 
 appearance:
-theme_day: minimal
-theme_night: minimal
-font: minimal
-font_size: L
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
+
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''Site pessoal de Marcos Vinicius de Paula Alves''
-    twitter: 'wowchemy'
+    description: 'Site pessoal de Marcos Vinicius de Paula Alves'
+    twitter: 'macvinnyof'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,16 +24,8 @@ marketing:
     google: ''
     baidu: ''
 
-# Contact (edit or remove options as required)
-
-email: macvinny@protonmail.com
-address:
-  city: Goiânia
-  region: Goiás
-  country: Brasil
-  country_code: BR
-
 # Site header
+
 header:
   navbar:
     enable: true
@@ -45,15 +38,15 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Marcos Vinicius de Paula Alves. Soli Deo Gloria. Todos os direitos reservados.'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
       
-
 # Localization
+
 locale:
   date_format: '02/01/2006'
   time_format: '15:04'
@@ -96,3 +89,5 @@ features:
       show_logo: false
   map:
     provider: ''
+    api_key: ''
+    zoom: 15

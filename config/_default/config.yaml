@@ -2,7 +2,6 @@
 
 title: Marcos Vinicius # Website name
 baseurl: 'https://macvinny.com.br/' # Website URL
-copyright: '© {year} Marcos Vinicius de Paula Alves. Soli Deo Gloria. Todos os direitos reservados.' # Footer text
 
 ############################
 ## LANGUAGE
@@ -62,3 +61,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep

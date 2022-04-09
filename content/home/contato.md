@@ -11,6 +11,16 @@ weight: 70
 title: Contato
 subtitle:
 
+content:
+  autolink: false
+  
+  email: macvinny@protonmail.com
+  address:
+    city: Goiânia
+    region: Goiás
+    country: Brasil
+    country_code: BR
+
 design:
   columns: '2'
 ---
