@@ -2,16 +2,26 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+appearance:
+theme_day: minimal
+theme_night: minimal
+font: minimal
 font_size: L
 
 # SEO
-
-site_type: Person
-description: 'Site pessoal de Marcos Vinicius de Paula Alves'
-
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: ''Site pessoal de Marcos Vinicius de Paula Alves''
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Contact (edit or remove options as required)
 
@@ -23,67 +33,66 @@ address:
   country_code: BR
 
 # Site header
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+      
 
 # Localization
-
-date_format: '02/01/2006'
-time_format: '15:04'
-address_format: pt-br
-
+locale:
+  date_format: '02/01/2006'
+  time_format: '15:04'
+  address_format: pt-br
+  
 # Site features
 
-highlight: true
-highlight_languages:
-  - c
-  - java
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: 'https://github.com/macvinny/site/'
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: true
-    post: true
-    book: true
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: false
-section_pager: false
-docs_section_pager: true
-sharing: true
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: square
-publications:
-  date_format: 01/2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-search:
-  provider: wowchemy
-icon:
-  pack:
-    ai: true
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - c
+      - java
+  math:
+    enable: true
+  diagram:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/macvinny/site/'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: square
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
