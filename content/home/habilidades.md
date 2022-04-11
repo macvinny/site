@@ -13,15 +13,15 @@ subtitle:
 
 # Showcase personal skills or business features.
 feature:
-- description: Sempre buscando aprender, praticar e evoluir no desenvolvimento de software. 
+- description:
   icon: dev
   icon_pack: fab
   name: Software Enginner
-- description: Desenvolvimento Web com Java.
+- description:
   icon: java
   icon_pack: fab
   name: Java
-- description: Desenvolvimento Web com Angular.
+- description:
   icon: angular
   icon_pack: fab
   name: Angular
