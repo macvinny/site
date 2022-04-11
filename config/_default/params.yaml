@@ -31,7 +31,7 @@ footer:
   copyright:
     notice: '© {year} Marcos Vinicius de Paula Alves. Soli Deo Gloria. Todos os direitos reservados.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
