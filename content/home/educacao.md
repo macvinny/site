@@ -20,7 +20,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-01-01"
-  description: ""
+  description: "Desde do começo do curso tive compromisso com o aprendizado, buscando conhecer e aprofundar nos fundamentos computacionais, me dediquei a cada matéria e dei o meu melhor em todas as circunstâncias. Participei de maratonas de programação, orientações de disciplinas e pesquisas científicas com professores e colegas."
   organization: Pontifícia Universidade Católica de Goiás
   organization_url: https://www.pucgoias.edu.br/
   title: Ciência da Computação
